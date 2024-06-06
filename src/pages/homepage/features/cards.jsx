@@ -144,7 +144,7 @@ const Cards = () => {
                 <div className="adv">
                     <h4>Advertisement</h4>
                     <h2>You can place ads</h2>
-                    <h3>750 X 100</h3>
+                    <h3>740 X 100</h3>
                 </div>
 
             </div>
